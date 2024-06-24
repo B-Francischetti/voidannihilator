@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Control_enemy",
+  "%Name":"Control_Enemy",
   "eventList":[],
   "managed":true,
-  "name":"Control_enemy",
+  "name":"Control_Enemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Control",
+    "path":"folders/Objects/Control.yy",
   },
   "parentObjectId":null,
   "persistent":false,

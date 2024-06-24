@@ -9,12 +9,12 @@
   "name":"Enemy_base_large",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Enemy",
+    "path":"folders/Objects/Enemy.yy",
   },
   "parentObjectId":{
-    "name":"Control_enemy",
-    "path":"objects/Control_enemy/Control_enemy.yy",
+    "name":"Control_Enemy",
+    "path":"objects/Control_Enemy/Control_Enemy.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

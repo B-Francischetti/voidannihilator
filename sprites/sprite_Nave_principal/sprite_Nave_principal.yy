@@ -44,8 +44,8 @@
   },
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Nave",
+    "path":"folders/Sprites/Nave.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

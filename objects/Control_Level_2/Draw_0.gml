@@ -1,8 +1,8 @@
 draw_set_font(font_Levels)
 
 if room == room_Level_2{
-	draw_text(20,20, "Vida: " + string(Control_master.vida))
-	draw_text(20,60, "Placar: " + string(Control_master.placar))
+	draw_text(20,20, "Vida: " + string(Control_Master.vida))
+	draw_text(20,60, "Placar: " + string(Control_Master.placar))
 	draw_text(20,100, "Level 2")
 	draw_text(20,140, "Tempo: " + string(int64(alarm[0]/60+1)))
 }

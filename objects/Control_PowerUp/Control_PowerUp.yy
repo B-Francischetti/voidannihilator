@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Scene_control_good_end",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Control_PowerUp",
+  "eventList":[],
   "managed":true,
-  "name":"Scene_control_good_end",
+  "name":"Control_PowerUp",
   "overriddenProperties":[],
   "parent":{
-    "name":"Scene",
-    "path":"folders/Objects/Scene.yy",
+    "name":"Control",
+    "path":"folders/Objects/Control.yy",
   },
   "parentObjectId":null,
   "persistent":false,

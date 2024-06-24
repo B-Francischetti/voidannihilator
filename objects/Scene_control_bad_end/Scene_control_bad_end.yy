@@ -8,8 +8,8 @@
   "name":"Scene_control_bad_end",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Scene",
+    "path":"folders/Objects/Scene.yy",
   },
   "parentObjectId":null,
   "persistent":false,

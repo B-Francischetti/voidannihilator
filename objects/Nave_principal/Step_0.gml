@@ -15,7 +15,7 @@ else if keyboard_check(vk_down) or keyboard_check(ord("S"))
 else
 	speed = 0
 
-if keyboard_check_pressed(vk_space) or mouse_check_button(mb_left){
+if keyboard_check_pressed(vk_space) or mouse_check_button_pressed(mb_left){
 	instance_create_layer(x, y, "Instances", Projectile_principal)
 	audio_play_sound(sound_Projectile, 1, false)
 }
@@ -29,6 +29,6 @@ else{
 	image_alpha = 0.4
 }
 
-if !instance_exists(Control_enemy){
+if !instance_exists(Control_Enemy){
 	room_goto_next()
 }

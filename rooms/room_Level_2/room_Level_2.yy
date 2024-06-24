@@ -33,8 +33,8 @@
   ],
   "name":"room_Level_2",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Level",
+    "path":"folders/Rooms/Level.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

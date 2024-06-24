@@ -1,7 +1,7 @@
 move_wrap(true, true, 0)
 
 if vida == 0{
-	Control_master.placar += 100
+	Control_Master.placar += 100
 	instance_destroy()
 }
 

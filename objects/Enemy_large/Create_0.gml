@@ -1,4 +1,4 @@
 speed = 1
-direction = irandom(360)
-
 vida = 5
+randomize()
+direction = irandom(360)

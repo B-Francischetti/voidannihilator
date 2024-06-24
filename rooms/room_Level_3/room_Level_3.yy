@@ -29,8 +29,8 @@
   ],
   "name":"room_Level_3",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Level",
+    "path":"folders/Rooms/Level.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

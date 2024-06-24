@@ -4,7 +4,7 @@ if vida == 0{
 	repeat(3){
 	instance_create_layer(x,y,"Instances",Enemy_small)
 	}
-	Control_master.placar += 250
+	Control_Master.placar += 250
 	instance_destroy()	
 }
 
