@@ -1,4 +1,4 @@
-if(pwup <= 5) {
+/*if(pwup <= 5) {
 	instance_create_layer(x,y,"Instances", PowerUp_vida)
 } else if(pwupDoubleShot <= 5) {
 	instance_create_layer(x,y,"Instances", PowerUp_vida)
@@ -20,6 +20,7 @@ if(pwup > 9 and pwup < 20) {
 if(pwup > 19 and pwup < 30) {
     instance_create_layer(x,y,"Instances", PowerUp_shield)
 }
+
 /*else if (pwup > 29){
 	pass
 }*/
