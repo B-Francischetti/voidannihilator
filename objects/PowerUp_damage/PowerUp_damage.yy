@@ -1,18 +1,22 @@
 {
   "$GMObject":"",
-  "%Name":"Control_Enemy",
+  "%Name":"PowerUp_damage",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Control_Enemy",
+  "name":"PowerUp_damage",
   "overriddenProperties":[],
   "parent":{
-    "name":"Control",
-    "path":"folders/Objects/Control.yy",
+    "name":"PowerUp",
+    "path":"folders/Objects/PowerUp.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Control_PowerUp",
+    "path":"objects/Control_PowerUp/Control_PowerUp.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -29,8 +33,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":null,
+  "solid":false,
+  "spriteId":{
+    "name":"Sprite16",
+    "path":"sprites/Sprite16/Sprite16.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
