@@ -50,6 +50,7 @@
     {"name":"room_Good_end","order":1,"path":"rooms/room_Good_end/room_Good_end.yy",},
     {"name":"room_Level_2","order":1,"path":"rooms/room_Level_2/room_Level_2.yy",},
     {"name":"room_Level_3","order":2,"path":"rooms/room_Level_3/room_Level_3.yy",},
+    {"name":"room_Level_test","order":3,"path":"rooms/room_Level_test/room_Level_test.yy",},
     {"name":"room_Menu","order":2,"path":"rooms/room_Menu/room_Menu.yy",},
     {"name":"sprite_Button_exit","order":1,"path":"sprites/sprite_Button_exit/sprite_Button_exit.yy",},
     {"name":"sprite_Button_start","order":2,"path":"sprites/sprite_Button_start/sprite_Button_start.yy",},
