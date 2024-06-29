@@ -35,6 +35,12 @@ if alarm[1] <= 0 {
 	
 }
 
+if alarm[2] <= 0 {
+	
+} else {
+	
+}
+
 if !instance_exists(Control_Enemy){
 	room_goto_next()
 }

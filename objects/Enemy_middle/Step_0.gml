@@ -4,7 +4,12 @@ if(vida <= 0) {
 	repeat(3){
 	instance_create_layer(x,y,"Instances",Enemy_small)
 	}
-	Control_Master.placar += 250
+	if(Nave_principal.double = false){
+	score += pontos
+	}else
+	{
+	score += pontos*2
+	}
 	instance_destroy()	
 }
 

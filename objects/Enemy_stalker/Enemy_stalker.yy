@@ -16,7 +16,7 @@
     "name":"Control_Enemy",
     "path":"objects/Control_Enemy/Control_Enemy.yy",
   },
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,

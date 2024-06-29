@@ -1,4 +1,4 @@
-alarm[1] = 300
+alarm[1] = 1
 if(alarm[1] == 0) {
 	dmg = false
 } else {

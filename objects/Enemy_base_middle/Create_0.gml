@@ -1,3 +1,4 @@
-vida = 12
+vida = 15
 randomize()
 pwup = irandom(99)
+pontos = 750

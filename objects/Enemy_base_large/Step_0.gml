@@ -1,5 +1,10 @@
 if (vida <= 0){
-	Control_Master.placar += 500
+	if(Nave_principal.double = false){
+	score += pontos
+	}else
+	{
+	score += pontos*2
+	}
 	if(pwup < 1) {
 			instance_create_layer(x,y,"Instances", PowerUp_vida)
 		}
