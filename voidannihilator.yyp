@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"VossoJogo",
+  "%Name":"voidannihilator",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -49,7 +49,7 @@
   "MetaData":{
     "IDEVersion":"2024.4.1.152",
   },
-  "name":"VossoJogo",
+  "name":"voidannihilator",
   "resources":[
     {"id":{"name":"font_Levels","path":"fonts/font_Levels/font_Levels.yy",},},
     {"id":{"name":"Button_exit","path":"objects/Button_exit/Button_exit.yy",},},

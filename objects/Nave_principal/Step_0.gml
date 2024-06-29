@@ -29,16 +29,20 @@ else{
 	image_alpha = 0.4
 }
 
-if alarm[1] <= 0 {
-	
-} else {
-	
+//Power Up Damage
+if(alarm[1] > 0){
+	dmg = true
+}
+if(alarm[1] <= 0) {
+	dmg = false
 }
 
-if alarm[2] <= 0 {
-	
-} else {
-	
+// Power Up Points
+if alarm[2] > 0 {
+	double = true
+}
+if(alarm[2] <= 0) {
+	double = false
 }
 
 if !instance_exists(Control_Enemy){

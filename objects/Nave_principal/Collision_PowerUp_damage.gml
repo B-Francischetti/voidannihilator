@@ -1,7 +1,2 @@
-alarm[1] = 1
-if(alarm[1] == 0) {
-	dmg = false
-} else {
-	dmg = true
-}
+alarm[1] = 300
 instance_destroy(other)
