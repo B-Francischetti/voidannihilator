@@ -16,7 +16,7 @@ if (vida <= 0){
 		if(pwup > 3 and pwup < 7) {
 			instance_create_layer(x,y,"Instances", PowerUp_points)
 		}
-		if(pwup > 6 and pwup < 10) {
+		if(pwup > 6 /*and pwup < 10*/) {
 			instance_create_layer(x,y,"Instances", PowerUp_shield)
 		}
 	instance_destroy()

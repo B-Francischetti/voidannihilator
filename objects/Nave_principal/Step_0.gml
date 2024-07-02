@@ -45,6 +45,19 @@ if(alarm[2] <= 0) {
 	double = false
 }
 
+// Power Up Shield
+if(alarm[3] <= 0) {
+	shield = false
+}
+if(alarm[3] > 0) {
+	shield = true
+}
+if(shield and countShield = 0) {
+	instance_create_layer(x,y,"Instances",Shield)
+	countShield++
+}
+
+
 if !instance_exists(Control_Enemy){
 	room_goto_next()
 }

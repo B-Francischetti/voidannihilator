@@ -25,7 +25,7 @@ if (vida <= 0){
 if instance_exists(Nave_principal){
 move_towards_point(Nave_principal.x, Nave_principal.y, 1)
 }
-else{
+else{ 
 	instance_destroy()
 }
 
