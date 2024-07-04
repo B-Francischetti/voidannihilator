@@ -61,3 +61,6 @@ if(shield and countShield = 0) {
 if !instance_exists(Control_Enemy){
 	room_goto_next()
 }
+
+image_xscale = 1.5
+image_yscale = 1.5

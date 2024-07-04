@@ -36,8 +36,8 @@
     {"$GMFolder":"","%Name":"Button","folderPath":"folders/Sprites/Button.yy","name":"Button","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Divulgação","folderPath":"folders/Sprites/Divulgação.yy","name":"Divulgação","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Enemy","folderPath":"folders/Sprites/Enemy.yy","name":"Enemy","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"PowerUps","folderPath":"folders/Sprites/PowerUps.yy","name":"PowerUps","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Nave","folderPath":"folders/Sprites/Nave.yy","name":"Nave","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"PowerUps","folderPath":"folders/Sprites/PowerUps.yy","name":"PowerUps","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Projectile","folderPath":"folders/Sprites/Projectile.yy","name":"Projectile","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -48,7 +48,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"voidannihilator",
   "resources":[
