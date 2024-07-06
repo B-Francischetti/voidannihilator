@@ -11,6 +11,8 @@ if (vida <= 0){
 	score += pontos*2
 	}
 	instance_destroy()
+} else {
+	 
 }
 image_xscale = 1.5
 image_yscale = 1.5

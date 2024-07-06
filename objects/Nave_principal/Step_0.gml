@@ -45,7 +45,7 @@ if(alarm[2] <= 0) {
 	double = false
 }
 
-// Power Up Shield
+// Power Up Shield ---------------------- ARRUMAR ----------------------
 if(alarm[3] <= 0) {
 	shield = false
 }
@@ -53,12 +53,11 @@ if(alarm[3] > 0) {
 	shield = true
 }
 if(shield and countShield = 0) {
-	instance_create_layer(x,y,"Instances",Shield)
+	instance_create_depth(x,y,-100, Shield)
 	countShield++
 }
 
-
-if !instance_exists(Control_Enemy){
+if !instance_exists(Control_Enemy) {
 	room_goto_next()
 }
 

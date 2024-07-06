@@ -4,3 +4,4 @@ dmg = false
 double = false
 shield = false
 alarm[0] = 60
+depth = 1

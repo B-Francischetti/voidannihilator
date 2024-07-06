@@ -48,7 +48,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"voidannihilator",
   "resources":[
@@ -67,6 +67,7 @@
     {"id":{"name":"Enemy_large","path":"objects/Enemy_large/Enemy_large.yy",},},
     {"id":{"name":"Enemy_middle","path":"objects/Enemy_middle/Enemy_middle.yy",},},
     {"id":{"name":"Enemy_small","path":"objects/Enemy_small/Enemy_small.yy",},},
+    {"id":{"name":"Enemy_stalker_adv","path":"objects/Enemy_stalker_adv/Enemy_stalker_adv.yy",},},
     {"id":{"name":"Enemy_stalker","path":"objects/Enemy_stalker/Enemy_stalker.yy",},},
     {"id":{"name":"Nave_principal","path":"objects/Nave_principal/Nave_principal.yy",},},
     {"id":{"name":"PowerUp_damage","path":"objects/PowerUp_damage/PowerUp_damage.yy",},},
@@ -94,6 +95,7 @@
     {"id":{"name":"sprite_Enemy_large","path":"sprites/sprite_Enemy_large/sprite_Enemy_large.yy",},},
     {"id":{"name":"sprite_Enemy_middle","path":"sprites/sprite_Enemy_middle/sprite_Enemy_middle.yy",},},
     {"id":{"name":"sprite_Enemy_small","path":"sprites/sprite_Enemy_small/sprite_Enemy_small.yy",},},
+    {"id":{"name":"sprite_Enemy_stalker_adv","path":"sprites/sprite_Enemy_stalker_adv/sprite_Enemy_stalker_adv.yy",},},
     {"id":{"name":"sprite_Enemy_stalker","path":"sprites/sprite_Enemy_stalker/sprite_Enemy_stalker.yy",},},
     {"id":{"name":"sprite_Nave_principal","path":"sprites/sprite_Nave_principal/sprite_Nave_principal.yy",},},
     {"id":{"name":"sprite_Projectile_principal","path":"sprites/sprite_Projectile_principal/sprite_Projectile_principal.yy",},},

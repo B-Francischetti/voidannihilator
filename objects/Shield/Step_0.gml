@@ -1,7 +1,8 @@
 move_wrap(true, true, 0)
+x = Nave_principal.x
+y = Nave_principal.y
+depth = 0
 
-if instance_exists(Nave_principal){
-	move_towards_point(Nave_principal.x, Nave_principal.y, Nave_principal.velocidade)
-} else {
+if !instance_exists(Nave_principal){
 	instance_destroy()
 }

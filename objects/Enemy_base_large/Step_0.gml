@@ -18,8 +18,19 @@ if (vida <= 0){
 			instance_create_layer(x,y,"Instances", PowerUp_shield)
 		}
 	repeat(2){
-		instance_create_layer(x,y, "Instances", Enemy_middle)
+		instance_create_layer(x,y, "Instances", Enemy_stalker_adv)
 	}
-	instance_create_layer(x,y, "Instances", Enemy_large)
+	instance_create_layer(x,y, "Instances", Enemy_stalker)
 	instance_destroy()
+} else {
+	if(alarm[0] <= 0) {
+		instance_create_layer(x, y, "Instances", Enemy_stalker)
+		alarm[0] = 900
+	}
+	if(alarm[1] <= 0) {
+		repeat(2) {
+			instance_create_layer(x,y, "Instances", Enemy_stalker_adv)
+		}
+		alarm[1] = 1200
+	}
 }
