@@ -20,7 +20,7 @@ if (vida <= 0){
 }
 
 if instance_exists(Nave_principal){
-	move_towards_point(Nave_principal.x, Nave_principal.y, 1.5)
+	move_towards_point(Nave_principal.x, Nave_principal.y, 2.3)
 } else { 
 	instance_destroy()
 }
