@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Enemy_stalker",
+  "%Name":"Enemy_stalker_adv",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Enemy_stalker",
+  "name":"Enemy_stalker_adv",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemy",
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_Enemy_stalker",
-    "path":"sprites/sprite_Enemy_stalker/sprite_Enemy_stalker.yy",
+    "name":"sprite_Enemy_middle",
+    "path":"sprites/sprite_Enemy_middle/sprite_Enemy_middle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

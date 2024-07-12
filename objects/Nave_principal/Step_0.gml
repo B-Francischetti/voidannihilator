@@ -45,9 +45,10 @@ if(alarm[2] <= 0) {
 	double = false
 }
 
-// Power Up Shield ---------------------- ARRUMAR ----------------------
+// Power Up Shield
 if(alarm[3] <= 0) {
 	shield = false
+	countShield = 0
 }
 if(alarm[3] > 0) {
 	shield = true
