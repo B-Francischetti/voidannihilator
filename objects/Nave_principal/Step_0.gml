@@ -38,7 +38,7 @@ if(alarm[1] <= 0) {
 }
 
 // Power Up Points
-if alarm[2] > 0 {
+if alarm[ 2] > 0 {
 	double = true
 }
 if(alarm[2] <= 0) {

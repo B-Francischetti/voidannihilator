@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_points",
-    "path":"sprites/sprite_points/sprite_points.yy",
+    "name":"Sprite21",
+    "path":"sprites/Sprite21/Sprite21.yy",
   },
   "spriteMaskId":null,
   "visible":true,
