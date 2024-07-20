@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"PowerUp",
-    "path":"folders/Objects/PowerUp.yy",
+    "name":"PowerUps",
+    "path":"folders/Sprites/PowerUps.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

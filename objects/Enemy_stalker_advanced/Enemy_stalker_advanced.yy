@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_Enemy_stalker",
-    "path":"sprites/sprite_Enemy_stalker/sprite_Enemy_stalker.yy",
+    "name":"sprite_Enemy_stalker_advanced",
+    "path":"sprites/sprite_Enemy_stalker_advanced/sprite_Enemy_stalker_advanced.yy",
   },
   "spriteMaskId":null,
   "visible":true,

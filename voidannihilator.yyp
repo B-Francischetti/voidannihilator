@@ -48,7 +48,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"voidannihilator",
   "resources":[
@@ -100,6 +100,7 @@
     {"id":{"name":"sprite_Enemy_large","path":"sprites/sprite_Enemy_large/sprite_Enemy_large.yy",},},
     {"id":{"name":"sprite_Enemy_middle","path":"sprites/sprite_Enemy_middle/sprite_Enemy_middle.yy",},},
     {"id":{"name":"sprite_Enemy_small","path":"sprites/sprite_Enemy_small/sprite_Enemy_small.yy",},},
+    {"id":{"name":"sprite_Enemy_stalker_advanced","path":"sprites/sprite_Enemy_stalker_advanced/sprite_Enemy_stalker_advanced.yy",},},
     {"id":{"name":"sprite_Enemy_stalker","path":"sprites/sprite_Enemy_stalker/sprite_Enemy_stalker.yy",},},
     {"id":{"name":"sprite_escudo","path":"sprites/sprite_escudo/sprite_escudo.yy",},},
     {"id":{"name":"sprite_Nave_principal","path":"sprites/sprite_Nave_principal/sprite_Nave_principal.yy",},},

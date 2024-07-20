@@ -30,3 +30,6 @@ if instance_exists(Nave_principal){
 } else {
 	instance_destroy()
 } 
+
+image_xscale = .75
+image_yscale = .75

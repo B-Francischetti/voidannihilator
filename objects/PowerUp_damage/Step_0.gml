@@ -32,3 +32,6 @@ image_alpha = 0.4
 if alarm[0] <= 600 {
 image_alpha = 1
 }
+
+image_xscale = .6
+image_yscale = .6

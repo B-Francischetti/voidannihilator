@@ -13,4 +13,6 @@ if(vida <= 0) {
 	instance_destroy()	
 }
 
+image_xscale = 1.25
+image_yscale = 1.25
 image_angle = direction

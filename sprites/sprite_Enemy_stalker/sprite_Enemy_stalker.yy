@@ -1,25 +1,25 @@
 {
   "$GMSprite":"",
   "%Name":"sprite_Enemy_stalker",
-  "bboxMode":2,
-  "bbox_bottom":24,
-  "bbox_left":7,
-  "bbox_right":27,
-  "bbox_top":7,
-  "collisionKind":2,
+  "bboxMode":1,
+  "bbox_bottom":31,
+  "bbox_left":0,
+  "bbox_right":31,
+  "bbox_top":0,
+  "collisionKind":0,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"35d53e70-5bdb-44fb-895d-1ad21be7297b","name":"35d53e70-5bdb-44fb-895d-1ad21be7297b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"01bd2617-19c6-4348-967e-1ee4ac0af946","name":"01bd2617-19c6-4348-967e-1ee4ac0af946","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"1728e1c0-4da6-4c60-8ade-9b7f5aec02d1","blendMode":0,"displayName":"default","isLocked":false,"name":"1728e1c0-4da6-4c60-8ade-9b7f5aec02d1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"4032a1ae-8011-4468-83c0-155eb3a6dfd2","blendMode":0,"displayName":"default","isLocked":false,"name":"4032a1ae-8011-4468-83c0-155eb3a6dfd2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprite_Enemy_stalker",
   "nineSlice":{
@@ -88,8 +88,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"35d53e70-5bdb-44fb-895d-1ad21be7297b","path":"sprites/sprite_Enemy_stalker/sprite_Enemy_stalker.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"469a70d2-0423-4fdf-bfbb-db018fa7b84b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"01bd2617-19c6-4348-967e-1ee4ac0af946","path":"sprites/sprite_Enemy_stalker/sprite_Enemy_stalker.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d6691ceb-8428-41fc-b202-78a3d5c29329","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

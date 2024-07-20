@@ -64,11 +64,12 @@
     {"name":"sprite_divulg_bruno","order":1,"path":"sprites/sprite_divulg_bruno/sprite_divulg_bruno.yy",},
     {"name":"sprite_Enemy_large","order":1,"path":"sprites/sprite_Enemy_large/sprite_Enemy_large.yy",},
     {"name":"sprite_Enemy_small","order":2,"path":"sprites/sprite_Enemy_small/sprite_Enemy_small.yy",},
+    {"name":"sprite_Enemy_stalker_advanced","order":7,"path":"sprites/sprite_Enemy_stalker_advanced/sprite_Enemy_stalker_advanced.yy",},
     {"name":"sprite_Enemy_stalker","order":3,"path":"sprites/sprite_Enemy_stalker/sprite_Enemy_stalker.yy",},
     {"name":"sprite_escudo","order":1,"path":"sprites/sprite_escudo/sprite_escudo.yy",},
     {"name":"sprite_points","order":2,"path":"sprites/sprite_points/sprite_points.yy",},
     {"name":"sprite_shield","order":3,"path":"sprites/sprite_shield/sprite_shield.yy",},
     {"name":"sprite_vida","order":4,"path":"sprites/sprite_vida/sprite_vida.yy",},
-    {"name":"Sprite21","order":4,"path":"sprites/Sprite21/Sprite21.yy",},
+    {"name":"Sprite21","order":5,"path":"sprites/Sprite21/Sprite21.yy",},
   ],
 }
