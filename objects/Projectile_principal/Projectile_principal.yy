@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_Projectile_principal",
-    "path":"sprites/sprite_Projectile_principal/sprite_Projectile_principal.yy",
+    "name":"sprite_Projectile",
+    "path":"sprites/sprite_Projectile/sprite_Projectile.yy",
   },
   "spriteMaskId":null,
   "visible":true,

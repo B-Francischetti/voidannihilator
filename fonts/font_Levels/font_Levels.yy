@@ -137,6 +137,6 @@
     "name":"Default",
     "path":"texturegroups/Default",
   },
-  "TTFName":"${project_dir}\\fonts\\font_Levels\\Gamer.ttf",
+  "TTFName":null,
   "usesSDF":false,
 }

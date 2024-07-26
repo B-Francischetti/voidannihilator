@@ -106,6 +106,7 @@
     {"id":{"name":"sprite_Nave_principal","path":"sprites/sprite_Nave_principal/sprite_Nave_principal.yy",},},
     {"id":{"name":"sprite_points","path":"sprites/sprite_points/sprite_points.yy",},},
     {"id":{"name":"sprite_Projectile_principal","path":"sprites/sprite_Projectile_principal/sprite_Projectile_principal.yy",},},
+    {"id":{"name":"sprite_Projectile","path":"sprites/sprite_Projectile/sprite_Projectile.yy",},},
     {"id":{"name":"sprite_shield","path":"sprites/sprite_shield/sprite_shield.yy",},},
     {"id":{"name":"sprite_vida","path":"sprites/sprite_vida/sprite_vida.yy",},},
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
