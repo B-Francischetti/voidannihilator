@@ -53,6 +53,7 @@
   "name":"voidannihilator",
   "resources":[
     {"id":{"name":"font_Levels","path":"fonts/font_Levels/font_Levels.yy",},},
+    {"id":{"name":"font_Menu","path":"fonts/font_Menu/font_Menu.yy",},},
     {"id":{"name":"Button_exit","path":"objects/Button_exit/Button_exit.yy",},},
     {"id":{"name":"Button_restart","path":"objects/Button_restart/Button_restart.yy",},},
     {"id":{"name":"Button_start","path":"objects/Button_start/Button_start.yy",},},
@@ -60,6 +61,7 @@
     {"id":{"name":"Control_Level_2","path":"objects/Control_Level_2/Control_Level_2.yy",},},
     {"id":{"name":"Control_Level_3","path":"objects/Control_Level_3/Control_Level_3.yy",},},
     {"id":{"name":"Control_Master","path":"objects/Control_Master/Control_Master.yy",},},
+    {"id":{"name":"Control_Menu","path":"objects/Control_Menu/Control_Menu.yy",},},
     {"id":{"name":"Control_PowerUp","path":"objects/Control_PowerUp/Control_PowerUp.yy",},},
     {"id":{"name":"Enemy_base_large","path":"objects/Enemy_base_large/Enemy_base_large.yy",},},
     {"id":{"name":"Enemy_base_middle","path":"objects/Enemy_base_middle/Enemy_base_middle.yy",},},
@@ -88,6 +90,7 @@
     {"id":{"name":"room_Menu","path":"rooms/room_Menu/room_Menu.yy",},},
     {"id":{"name":"sound_Projectile","path":"sounds/sound_Projectile/sound_Projectile.yy",},},
     {"id":{"name":"sprite_Background_1","path":"sprites/sprite_Background_1/sprite_Background_1.yy",},},
+    {"id":{"name":"sprite_base_boss","path":"sprites/sprite_base_boss/sprite_base_boss.yy",},},
     {"id":{"name":"sprite_base_larg","path":"sprites/sprite_base_larg/sprite_base_larg.yy",},},
     {"id":{"name":"sprite_base_mid","path":"sprites/sprite_base_mid/sprite_base_mid.yy",},},
     {"id":{"name":"sprite_base_sma","path":"sprites/sprite_base_sma/sprite_base_sma.yy",},},
