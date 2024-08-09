@@ -16,11 +16,11 @@
 	repeat(2){
 		instance_create_layer(x,y, "Instances", Enemy_stalker)
 	}
-	instance_create_layer(x,y, "Instances", Enemy_stalker_adv)
+	instance_create_layer(x,y, "Instances", Enemy_stalker_advanced)
 	instance_destroy()
 } else {
 	if(alarm[0] <= 0) {
-		instance_create_layer(x, y, "Instances", Enemy_stalker_adv)
+		instance_create_layer(x, y, "Instances", Enemy_stalker_advanced)
 		alarm[0] = 1200
 	}
 }
