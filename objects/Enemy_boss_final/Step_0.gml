@@ -65,3 +65,4 @@ if (alarm [0] == 600){
 	instance_create_layer(x, y, "Instances", Enemy_stalker_advanced)
 	}
 }
+

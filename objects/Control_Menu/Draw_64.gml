@@ -6,7 +6,7 @@ var gui_largura = display_get_gui_width()
 var gui_altura = display_get_gui_height()
 var x1 = gui_largura/2
 var y1 = gui_altura/1.6
-var y2 = gui_altura/4
+var y2 = gui_altura/5
 
 for(var i = 0;i<opmax;i++){
 	draw_set_halign(fa_center)
