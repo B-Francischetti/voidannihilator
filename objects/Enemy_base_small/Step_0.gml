@@ -1,4 +1,4 @@
-  if (vida <= 0){
+	if (vida <= 0){
 	if(Nave_principal.double = false){ score += pontos } else { score += pontos*2 }
 	
 	if(pwup < 5) {
