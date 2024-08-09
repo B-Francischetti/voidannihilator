@@ -1,4 +1,4 @@
 index--;
-if(index<opmax-1){
-	index= 0;
+if(index<0){
+	index=opmax-1;
 }

@@ -23,10 +23,11 @@ for(var i = 0;i<opmax1;i++){
 	draw_set_font(font_Levels)
 	draw_set_halign(fa_center)
 	draw_set_valign(fa_center)
-	
+
+	draw_set_color(c_white)
 	draw_text(x1,y1+(dist*i),opcoes[i]);
 }
-	
+	draw_set_color(c_purple)
 for(var i = 0;i<opmax2;i++){
 	draw_set_font(font_Creditos)
 	draw_set_halign(fa_center)
