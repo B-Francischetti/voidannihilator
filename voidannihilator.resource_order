@@ -36,6 +36,7 @@
     {"name":"Button_restart","order":1,"path":"objects/Button_restart/Button_restart.yy",},
     {"name":"Button_start","order":2,"path":"objects/Button_start/Button_start.yy",},
     {"name":"Control_Creditos","order":3,"path":"objects/Control_Creditos/Control_Creditos.yy",},
+    {"name":"Control_Level_1","order":14,"path":"objects/Control_Level_1/Control_Level_1.yy",},
     {"name":"Control_Level_2","order":1,"path":"objects/Control_Level_2/Control_Level_2.yy",},
     {"name":"Control_Level_3","order":2,"path":"objects/Control_Level_3/Control_Level_3.yy",},
     {"name":"Control_Level_4","order":7,"path":"objects/Control_Level_4/Control_Level_4.yy",},

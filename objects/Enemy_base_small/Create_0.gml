@@ -1,4 +1,4 @@
-Control_Enemy.vida = 60
-pontos = 10000
+Control_Enemy.vida = 10
+pontos = 500
 randomize()
 pwup = irandom(99)

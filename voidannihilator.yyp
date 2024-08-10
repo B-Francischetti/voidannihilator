@@ -47,7 +47,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"voidannihilator",
   "resources":[
@@ -59,6 +59,7 @@
     {"id":{"name":"Button_start","path":"objects/Button_start/Button_start.yy",},},
     {"id":{"name":"Control_Creditos","path":"objects/Control_Creditos/Control_Creditos.yy",},},
     {"id":{"name":"Control_Enemy","path":"objects/Control_Enemy/Control_Enemy.yy",},},
+    {"id":{"name":"Control_Level_1","path":"objects/Control_Level_1/Control_Level_1.yy",},},
     {"id":{"name":"Control_Level_2","path":"objects/Control_Level_2/Control_Level_2.yy",},},
     {"id":{"name":"Control_Level_3","path":"objects/Control_Level_3/Control_Level_3.yy",},},
     {"id":{"name":"Control_Level_4","path":"objects/Control_Level_4/Control_Level_4.yy",},},
