@@ -62,6 +62,7 @@
     {"name":"PowerUp_shield","order":2,"path":"objects/PowerUp_shield/PowerUp_shield.yy",},
     {"name":"Scene_control_good_end","order":1,"path":"objects/Scene_control_good_end/Scene_control_good_end.yy",},
     {"name":"Shield","order":1,"path":"objects/Shield/Shield.yy",},
+    {"name":"teste","order":15,"path":"objects/teste/teste.yy",},
     {"name":"room_Creditos","order":3,"path":"rooms/room_Creditos/room_Creditos.yy",},
     {"name":"room_Good_end","order":1,"path":"rooms/room_Good_end/room_Good_end.yy",},
     {"name":"room_Level_2","order":1,"path":"rooms/room_Level_2/room_Level_2.yy",},

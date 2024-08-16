@@ -1,3 +1,3 @@
-if alarm[0] == 0 and room == room_Level_2  {
-	room_goto(room_Bad_end)
+if room == !room_Good_end{
+	audio_stop_all()
 }

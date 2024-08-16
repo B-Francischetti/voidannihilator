@@ -1,4 +1,5 @@
 if (vida <= 0){
+	audio_stop_all()
 	if(Nave_principal.double = false){score += pontos}else{score += pontos*2}
 	instance_destroy()
 	room_goto(room_Good_end)

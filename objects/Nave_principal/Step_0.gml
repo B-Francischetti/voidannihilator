@@ -58,7 +58,7 @@ if(shield and countShield = 0) {
 	countShield++
 }
 
-if !instance_exists(Control_Enemy) {
+if !instance_exists(Control_Enemy) and !instance_exists(Control_PowerUp){
 	room_goto_next()
 }
 
