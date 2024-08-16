@@ -47,7 +47,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"voidannihilator",
   "resources":[
@@ -141,6 +141,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"room_Menu","path":"rooms/room_Menu/room_Menu.yy",},},
     {"roomId":{"name":"room_Level_1","path":"rooms/room_Level_1/room_Level_1.yy",},},
+    {"roomId":{"name":"room_Level_boss","path":"rooms/room_Level_boss/room_Level_boss.yy",},},
     {"roomId":{"name":"room_Level_2","path":"rooms/room_Level_2/room_Level_2.yy",},},
     {"roomId":{"name":"room_Level_3","path":"rooms/room_Level_3/room_Level_3.yy",},},
     {"roomId":{"name":"room_Level_4","path":"rooms/room_Level_4/room_Level_4.yy",},},
@@ -149,7 +150,6 @@
     {"roomId":{"name":"room_Level_7","path":"rooms/room_Level_7/room_Level_7.yy",},},
     {"roomId":{"name":"room_Level_8","path":"rooms/room_Level_8/room_Level_8.yy",},},
     {"roomId":{"name":"room_Level_9","path":"rooms/room_Level_9/room_Level_9.yy",},},
-    {"roomId":{"name":"room_Level_boss","path":"rooms/room_Level_boss/room_Level_boss.yy",},},
     {"roomId":{"name":"room_Good_end","path":"rooms/room_Good_end/room_Good_end.yy",},},
     {"roomId":{"name":"room_Bad_end","path":"rooms/room_Bad_end/room_Bad_end.yy",},},
     {"roomId":{"name":"room_Creditos","path":"rooms/room_Creditos/room_Creditos.yy",},},

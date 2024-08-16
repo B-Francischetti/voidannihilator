@@ -1,6 +1,5 @@
 if (vida <= 0){
 	audio_stop_all()
-	if(Nave_principal.double = false){score += pontos}else{score += pontos*2}
 	if(instance_exists(Nave_principal)) {
 		if(Nave_principal.double = false){score += pontos}else{score += pontos*2}
 	}
