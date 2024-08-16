@@ -1,5 +1,7 @@
  if (vida <= 0){
-	if(Nave_principal.double = false){ score += pontos } else { score += pontos*2 }
+	if(instance_exists(Nave_principal)) {
+		if(Nave_principal.double = false){ score += pontos } else { score += pontos*2 }
+	}
 	
 	if(pwup < 2) {
 		instance_create_layer(x,y,"Instances", PowerUp_vida)

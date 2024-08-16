@@ -1,6 +1,12 @@
 if (vida <= 0){
+<<<<<<< HEAD
 	audio_stop_all()
 	if(Nave_principal.double = false){score += pontos}else{score += pontos*2}
+=======
+	if(instance_exists(Nave_principal)) {
+		if(Nave_principal.double = false){score += pontos}else{score += pontos*2}
+	}
+>>>>>>> 13dba94af64d228f8a60d8df8e4885168de4eed3
 	instance_destroy()
 	room_goto(room_Good_end)
 } else {
