@@ -29,19 +29,7 @@ This is where you include any additional features that were added to your projec
 If a certain piece of software or system configurations are required for your project. Please include it in this part as it greatly aids the reader's utilisation of your project. The steps listed should be clear and detailed.  If at all possible, include links that will aid in their understanding of how to configure or install the required files or software.
 
 # Prerequisites
-Mention Environment softwares required for the project.
-
-# API references
-We can include the reference docs in the readme if your project isn't too large. It is preferable to offer links to the locations where the API reference documentation is documented for bigger projects.
-
-# Tests
-In this part, you include all the various tests that may be run along with code examples.
-
-# Build Status / Errors
-This essentially explains the project's current build state. If a bug or error exists and has to be fixed. This is carried out for two distinct purposes. The user is aware that this is a problem and does not waste extra time wondering if they made a mistake.Without reading the entire code, a developer who is familiar with the issue can offer some immediate fixes.
-
-# How to Use?
-You never know who will read your readme, as I have already stated. Therefore, it is preferable to give instructions for using your project. For this, a step-by-step manual is the ideal option. Because a newbie might be reading it, it is preferable to describe the stages in as much detail as possible.
+um microondas
 
 # Contribute
 You should now inform them of their ability to assist you and participate. It is also useful to have instructions on how to contribute.
