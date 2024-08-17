@@ -31,3 +31,5 @@ if (vida <= 0){
 		alarm[1] = 1200
 	}
 }
+image_xscale = 2.0
+image_yscale = 2.0
