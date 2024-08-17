@@ -1,5 +1,7 @@
 if (vida <= 0){
-	if(Nave_principal.double = false){score += pontos}else{score += pontos*2}
+	if(instance_exists(Nave_principal)) {
+		if(Nave_principal.double = false){score += pontos}else{score += pontos*2}
+	}
 	instance_destroy()
 	room_goto(room_Good_end)
 } else {
